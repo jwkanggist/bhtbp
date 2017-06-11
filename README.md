@@ -21,10 +21,10 @@ Propagation for Noisy Sparse Recovery,"  IEEE Trans. on Signal process., vol. 63
 	-BCS: Shihao Ji, Ya Xue, and Lawrence Carin, "Bayesian compressive sensing," 
        IEEE Trans. Signal Process., vol. 56, no. 6, pp. 2346-2356, June. 2008.
        
- -SuPrEM: M. Akcakaya, J. Park, and V. Tarokh, “A coding theory approach to noisy compressive 
+ 	-SuPrEM: M. Akcakaya, J. Park, and V. Tarokh, “A coding theory approach to noisy compressive 
        sensing using low density frame,” IEEE Trans. Signal Process., vol. 59, no. 12, pp. 5369-5379, Nov. 2011.
        
- -L1-DS: E. Candes and T. Tao, “The Dantzig selector: Statistical estimation when p is much larger than n,” 
+ 	-L1-DS: E. Candes and T. Tao, “The Dantzig selector: Statistical estimation when p is much larger than n,” 
             Ann. Statist., vol. 35, no. 6, pp. 2313?2351, 2007
             
 ==========================================================================
